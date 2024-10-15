@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdf181372cd29264aafaf8d2f1328a26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - patrolPointPrefab: {fileID: 1272800502541255753, guid: ae0f02dc024f2ef4dbbe27bc87ca169e, type: 3}
+  - audioManager: {instanceID: 0}
+  - bulletPrefab: {fileID: 1088377046506819567, guid: bbf55e207ea20f545bcd51355043d089, type: 3}
+  - patrolPointManager: {fileID: 8240109649326251174, guid: 3939edfeae66ebe4398e59a15266eb43, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

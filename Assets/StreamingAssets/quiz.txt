@@ -1,0 +1,296 @@
+#AI Questions
+Q:What percentage of the public say that they have formed their opinions on AI understanding our language and guiding autonomous cars through mainstream media?
+$25%
++75%
+
+Q:What is Artificial Intelligence?
++Any human-like intelligence exhibited by a computer, robot or other machine.
+$The area of technology including the design, construction, operation, and application of robots
+$A type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively higher level features from data
+$The use and development of computer systems that are able to learn and adapt without following explicit instructions.
+
+Q:Which of these factors HAVEN’T driven the development of AI?
+$Exponential growth of available data
+$Development of more advanced algorithms
+$Increased computing power
++Neuroscience breakthroughs allowing the brain to be copied connection by connection
+
+Q:Which of these best describes General AI?
++AI encompassing all human like capabilities
+$AI that can only solve one specific well-defined task
+$AI that can do multiple tasks, integrating information and reasoning across multiple domains
+
+Q:Which of these best describes Broad AI?
+$AI encompassing all human like capabilities
+$AI that can only solve one specific well-defined task
++AI that can do multiple tasks, integrating information and reasoning across multiple domains
+
+Q:Which of these best describes Narrow AI?
+$AI encompassing all human like capabilities
++AI that can only solve one specific well-defined task
+$AI that can do multiple tasks, integrating information and reasoning across multiple domains
+
+Q:Which of the following is NOT an application of AI in Agriculture?
+$Satellite Crop Field Analysis
++Inventing new kinds of vegetable
+$Disease Recognition
+$Comprehensive Strategic Crop Planning
+
+Q:Which of these stages in the evolution of information technology automation occurred in the 1960s?
+$Machine learning and instance-specific AI integrated into automation
+$Complex systems of AI tools enable automation that can interpret, learn, reason and interact.
++Data management processes constrained to structured and standardised formats
+
+Q:Many people think that we are in danger or AI taking over our jobs, which of these is a likely outcome that will nullify the negative effect of this?
+$Humans might form alliances with AI, allowing them to coexist peacefully and share job responsibilities equally, eliminating the fear of AI taking over jobs.
++Different jobs may become available in this future society, AI may take repetitive jobs and ones involving hard manual labour leaving us with better work opportunities.
+$AI may become sentient and realise that it is taking over our jobs and then quit these jobs to give them back to us.
+$Society might collectively decide to revert to pre-industrial revolution technologies, abandoning AI altogether to preserve traditional job roles and industries.
+
+Q:True or False, AI systems today are mostly under the category of “General AI”
+$True
++False
+
+Q:True or False, AI algorithms can contain human biases
++True
+$False
+
+Q:True or False, One of the main areas that AI can currently exceed human abilities is creativity
+$True
++False
+
+Q:True or False, AI is a subset of Machine Learning.
+$True
++False
+
+#Data Science Questions
+
+Q:Which of the following is not a part of the Scientific Method?
+$Asking how we know things. 
+$Coming up with new ideas and making careful observations that can refute or support them so that we know even more.
+$Updating our knowledge when the unexpected happens.
++Blowing things up with big lasers.
+
+Q:True or False, Thinking Scientifically involves awareness of what others have already tried and discovered. A scientific paper might reference hundreds of others, which shows how science constantly builds on what came before.
++True
+$False - A maximum of ten other papers can be referenced per scientific paper
+$False - Most scientists know that it is good practice not to make references to each other’s papers so you can pretend you did all of the work yourself.
+
+Q:Which of the following is the best definition for Data Science?
+$The science of dates
++A multidisciplinary approach to extracting actionable insights from the large volumes of data collected and created by today’s organisations
+$The science of collecting data from the clients of a large organisation
+$The study of the area of law related to data ownership and distribution
+
+Q:Which of the following does a data scientist NOT do?
+$Apply mathematics, statistics, and the scientific method
++Carry out multiplication on large matrices by hand
+$Write applications that automate data processing and calculations Explain how these results can be used to solve business problems
+
+Q:Which of the following is the best definition of the Internet of Things?
+$A worldwide system of computer networks - a network of networks
+facts and statistics collected together for reference or analysis
++A giant network of connected things and people, all of which collect and share data about the way they are used and about the environment around them.
+$A collection of devices connected together in one physical location, such as a building, office, or home
+
+Q:What is the estimated global internet traffic?
+$50 PB/sec
++50 TB/sec
+$GB/sec
+$MB/sec
+
+Q:Which of the following is the best definition of cognitive computing?
++The use of computerised models to simulate the human thought process in complex situations where the answers might be ambiguous and uncertain
+$A giant network of connected things and people, all of which collect and share data about the way they are used and about the environment around them.
+$Any human-like intelligence exhibited by a computer, robot or other machine.
+$The area of technology including the design, construction, operation, and application of robots
+
+Q:True or False, Most data is structured. Unstructured data makes up a minority of all data.
+$True
++False
+
+Q:What is the objective with Cognitive AI Systems for Data Science?
+$Mimic the abilities of human AI researchers
++Analyse and garner insight from this massive amount of data.
+
+Q:Which of the following V words refers to the vast amounts of data generated every second?
++Volume
+$Variety
+$Velocity
+$Veracity
+
+Q:Which of the following V words refers to the messiness or trustworthiness of the data?
+$Variety
+$Velocity
++Veracity
+$Value
+
+Q:Which of the following V words refers to the fact that there are different types of available to use?
+$Volume
++Variety
+$Velocity
+$Veracity
+
+Q:Which of the following is NOT a skill that a good Data Scientist needs to have?
+$hacking skills
+$Maths/statistics knowledge
+$Substantive expertise.
++A PhD in Computer Science
+
+Q:Which of these situations is the most dangerous?
++You have technology and a lot of data available but lack a scientific approach.
+$You have technology and a scientific approach but lack data
+$You have a scientific approach and lots of data available but lack technology
+
+Q:Which of the following descriptions describe the way in which Data science products are normally built?
+$Individually
++By a team of data scientists
+$By artificial intelligence systems with minimal human interaction
+
+Q:Which members of A data science team bring consumability to data science?
+$Mathematicians
+$Business analysts
++Data engineers and Front-End developers
+
+Q:Which of the following does data analytics not involve?
+$Finding the right data in these data systems
+$Cleaning it for the purposes of the required analysis
+$Mining data to create reports and visualisations.
++Selling the data to the highest bidder
+
+Q:True or False, Data Engineering entails managing data throughout its lifecycle and includes the tasks of designing, building, and maintaining data infrastructures. 
++True
+$False
+
+Q:True or False, it is not the data engineer's responsibility to manage backups and deploy disaster recovery systems:
+$True
++False
+
+Q:In a data science team, who builds machine learning models?
+$Data Engineer
++Data Scientist
+
+Q:In a data science team, who acquires builds and transforms data?
++Data Engineer
+$Data Scientist
+
+Q:Which of the following is an example of unstructured data?
+$CSV files
+$Records in IBM DB2 Database
++X (Twitter) feeds
+
+#IBM Threat Intelligence and Hunting
+
+Q:Which of these is a risk associated with cyberattacks?
+$Gaining access to a physical location by deactivating electric locks
+$Cutting power to a city
+$Causing traffic accidents by manipulating traffic signals
++All of the above
+
+Q:True or False: All cyber attacks start outside of organisations
+$True
++False
+
+Q:What is malvertising?
++Using tools to conceal malware within objects or images in advertising network ads, getting into user’s computers, even if they don’t click on the ad. 
+$The creation of adverts containing false information about a product, deceiving the user into buying something that they don’t actually need.
+$Advertising malware to cyber criminals with the intention of selling them for monetary gain.
+
+Q:What is the attack where the attacker seeks to compromise a specific group of end users by infecting websites that members of the group are known to visit?
+$Phishing
+$Malvertising
+$SQL injection
++Watering Hole
+
+Q:What does a SQL command insert into client applications?
++Database commands
+$Python code
+$Their own personal information
+$A long string of only full stops
+
+Q:What attack is described here: “These attacks overload online networks and systems with massive traffic consuming resources and bandwidth, eventually shutting down their online capabilities.”?
+$Malvertising
++DDos
+$Watering Hole
+$SQL injection
+
+Q:Which of these is not a form of malware?
+$Viruses
+$Worms
++Frogs
+$Trojans
+
+Q:Which of these are reasons why cybercriminals may attack?
+$Financial gain
+$Sabotage or revenge
+$For bragging rights
++All of the above
+
+Q:What is the most common attack type?
+$Viruses
++Ransomware
+$DDos
+$SQL injection
+
+Q:Which of the following is the name of a type of ransomware that is estimated to makes $123 million yearly?
++Sodinokibi
+$Skibidi
+
+Q:What is the definition of an “attack vector”?
++A pathway used by a hacker to illegally access a network or computer
+$A type of virus
+$The direction of attack (e.g from a computer to a phone)
+$All of the above
+
+Q:True or False, A third of all cyber attacks use Phishing as an infection vector:
++True
+$False
+
+Q:Which of these “s” words is the name of the attack that involves: “attempting to access your system by pretending to be within a system that you normally trust within your own network”?
+$Spamming
+$Shoulder Surfing
++Spoofing
+$SQL injection
+
+Q:Which of these industries suffers the most cyber attacks?
++Finance and Insurance
+$Manufacturing
+$Energy
+$Retail
+
+Q:True or False, The number of cyber attacks on the healthcare industry increased significantly as a result of COVID-related healthcare attacks 
++True
+$False
+
+Q:Which of the following can make a system vulnerable to misconfiguration attacks?
+$The database storing user data is poorly encrypted allowing it to be hacked easily.
++System or Application configuration settings are missing or are erroneously implemented
+
+Q:True or False, the Education industry receives more cyber attacks than the Energy industry.
+$True
++False
+
+Q:Which continents receive the most cyber attacks?
+$South America, Africa, Oceania
++North America, Europe and Asia
+$Asia, Africa, Antarctica
+
+Q:True or False, Network security acts as the last line of defence for governments and Organisations?
+$True
++False
+
+Q:Which of these is NOT a domain of the security enterprise framework?
+$Mobile
+$Apps
+$Data
++Spoofing
+
+Q:True or False Threat Hunting Focuses on cybercrime detection, hunting and investigation without a focus on proactively and aggressively identifying, intercepting, tracking, investigating and eliminating cyber adversaries instead focusing on logging the crimes for potential later investigation.
+$True
++False
+
+Q:What do you call a hacker who, under the owner’s consent, uncovers security failings in a system in order to help you safeguard the business from the dangerous hackers?
++White Hat Hacker
+$Grey Hat Hacker
+$Black Hat Hacker
+$Pinky-Purple Hat Hacker
